@@ -3,7 +3,7 @@
 
 
 ## 🌎 Socials:
-Discord: PatrykDudek#6579
+Discord: PatrykDudek#6579 <br>
 Linkedin: https://www.linkedin.com/in/patryk-dudek-25833a256
 
 # 💻 Tech Stack:
